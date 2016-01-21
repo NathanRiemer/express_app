@@ -1,4 +1,5 @@
 # Testing and Continuous Integration
+![:image](https://travis-ci.org/NathanRiemer/express_app.svg?branch=master)
 
 ![:image](http://4.bp.blogspot.com/-MyXQLlk8VGc/U80eH-eo-fI/AAAAAAAAAwI/8Zrx7uZFR4A/s1600/download.jpg)
 
